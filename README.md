@@ -19,7 +19,7 @@
 
 2. 编译及运行合约
 
-	`cd pet-shop-master`
+	`cd pet-shop`
 
     `truffle compile`
 
