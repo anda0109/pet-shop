@@ -5,13 +5,13 @@
 
 ![pet-shop运行效果](https://github.com/anda0109/pet-shop/blob/master/src/images/pet-shop.png?raw=true)
 
-#运行环境
+# 运行环境
 
 - Node.js
 - Truffle
 - Ganache
 
-#安装步骤
+# 安装步骤
 
 1. 克隆项目
 
