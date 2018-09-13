@@ -19,7 +19,9 @@
 
 2. 编译及运行合约
 
-	`cd pet-shop`
+      `cd pet-shop`
+	
+     `npm install`
 
     `truffle compile`
 
